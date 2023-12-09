@@ -2,7 +2,7 @@
     "products": [
         {
             "name": "Apple",
-            "img": "https://example.com/apple.jpg",
+            "img": "https://raw.githubusercontent.com/Vovander_15/VovaMarketPlace/main/img/Apple.jpg",
             "price": "1.99",
             "description": "Fresh and juicy apple",
             "author_id": "12345",
@@ -10,15 +10,14 @@
         },
         {
             "name": "Orange",
-            "img": "https://example.com/orange.jpg",
-            "price": "2.49",
+            "img": "https://raw.githubusercontent.com/DeBrother112/VovaMarketPlace/main/img/orange.jpg",
             "description": "Sweet and tangy orange",
             "author_id": "23456",
             "id": "10002"
         },
         {
             "name": "Banana",
-            "img": "https://example.com/banana.jpg",
+            "img": "https://raw.githubusercontent.com/DeBrother112/VovaMarketPlace/main/img/banana.jpg",
             "price": "0.99",
             "description": "Creamy and delicious banana",
             "author_id": "34567",
@@ -26,7 +25,7 @@
         },
         {
             "name": "Grapes",
-            "img": "https://example.com/grapes.jpg",
+            "img": "https://raw.githubusercontent.com/DeBrother112/VovaMarketPlace/main/img/grapes.jpg",
             "price": "3.99",
             "description": "Small and flavorful grapes",
             "author_id": "45678",
@@ -34,7 +33,7 @@
         },
         {
             "name": "Watermelon",
-            "img": "https://example.com/watermelon.jpg",
+            "img": "https://raw.githubusercontent.com/DeBrother112/VovaMarketPlace/main/img/Watermelon.jpg",
             "price": "5.99",
             "description": "Juicy and refreshing watermelon",
             "author_id": "56789",
@@ -44,38 +43,24 @@
     "users": [
         {
             "name": "John",
-            "img": "https://example.com/john.jpg",
+            "img": "https://raw.githubusercontent.com/DeBrother112/VovaMarketPlace/main/img/John.jpg",
             "surname": "Doe",
             "ballance": "1000",
             "id": "12345"
         },
         {
             "name": "Maria",
-            "img": "https://example.com/maria.jpg",
+            "img": "https://raw.githubusercontent.com/DeBrother112/VovaMarketPlace/main/img/Maria.jpg",
             "surname": "Smith",
             "ballance": "500",
             "id": "67890"
         },
         {
             "name": "David",
-            "img": "https://example.com/david.jpg",
+            "img": "https://raw.githubusercontent.com/DeBrother112/VovaMarketPlace/main/img/David.jpg",
             "surname": "Johnson",
             "ballance": "800",
             "id": "54321"
-        },
-        {
-            "name": "Sarah",
-            "img": "https://example.com/sarah.jpg",
-            "surname": "Brown",
-            "ballance": "1200",
-            "id": "98765"
-        },
-        {
-            "name": "Michael",
-            "img": "https://example.com/michael.jpg",
-            "surname": "Wilson",
-            "ballance": "1500",
-            "id": "24680"
         }
     ]
 }
