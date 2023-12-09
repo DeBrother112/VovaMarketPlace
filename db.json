@@ -2,7 +2,7 @@
     "products": [
         {
             "name": "Apple",
-            "img": "https://raw.githubusercontent.com/Vovander_15/VovaMarketPlace/main/img/Apple.jpg",
+            "img": "https://raw.githubusercontent.com/DeBrother112/VovaMarketPlace/main/img/Apple.jpg",
             "price": "1.99",
             "description": "Fresh and juicy apple",
             "author_id": "12345",
