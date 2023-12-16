@@ -3,7 +3,7 @@
         {
             "name": "Apple",
             "img": "https://raw.githubusercontent.com/DeBrother112/VovaMarketPlace/main/img/Apple.jpg",
-            "price": "1.99",
+            "price": "1.59",
             "description": "Fresh and juicy apple",
             "author_id": "12345",
             "id": "10001"
@@ -11,6 +11,7 @@
         {
             "name": "Orange",
             "img": "https://raw.githubusercontent.com/DeBrother112/VovaMarketPlace/main/img/orange.jpg",
+            "price": "1.79",
             "description": "Sweet and tangy orange",
             "author_id": "23456",
             "id": "10002"
@@ -18,7 +19,7 @@
         {
             "name": "Banana",
             "img": "https://raw.githubusercontent.com/DeBrother112/VovaMarketPlace/main/img/banana.jpg",
-            "price": "0.99",
+            "price": "1.99",
             "description": "Creamy and delicious banana",
             "author_id": "34567",
             "id": "10003"
@@ -26,7 +27,7 @@
         {
             "name": "Grapes",
             "img": "https://raw.githubusercontent.com/DeBrother112/VovaMarketPlace/main/img/grapes.jpg",
-            "price": "3.99",
+            "price": "2.99",
             "description": "Small and flavorful grapes",
             "author_id": "45678",
             "id": "10004"

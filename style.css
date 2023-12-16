@@ -5,7 +5,8 @@
     box-sizing: border-box;
 }
 
-main, header {
+main,
+header {
     margin: 5vh 10wh;
 }
 
@@ -46,7 +47,7 @@ header {
     background-color: #fff;
 }
 
-.product a{
+.product a {
     color: #fff;
 }
 
@@ -101,5 +102,50 @@ header {
 
 .seller-products-grid {
     display: grid;
-    
+
+}
+
+#cart {
+    position: relative;
+}
+
+#cart-products {
+    display: flex;
+    position: absolute;
+    background-color: pink;
+    min-width: 300px;
+    top: 50px;
+    right: -5px;
+    padding: 10px;
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+#cart-products::after {
+    content: "";
+    border: transparent solid 16px;
+    width: 1px;
+    position: absolute;
+    top: -25px;
+    border-bottom-color: rgba(128, 128, 128, 0.596);
+    right: 5px;
+}
+
+.hide {
+    display: none !important;
+}
+
+#cart-products img {
+    width: 90px;
+    height:70px;
+}
+
+#clearCart {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+#clearCart:hover {
+    background-color: rgb(143, 0, 0);
 }

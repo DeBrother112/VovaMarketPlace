@@ -15,7 +15,7 @@ xhr.onload = () => {
         pElem.innerHTML = `
         <img src="${p.img}" alt="">
                 <h2 class="product-name">${p.name}</h2>
-                <p class="product-desc">${p.desc}</p>
+                <p class="product-desc">${p.description}</p>
                 <a href="profile/profile.html?id=${p.author_id}">Seller product</a>
                 <div class="price-bar">
                     <p class="product-price">${p.price}</p>
